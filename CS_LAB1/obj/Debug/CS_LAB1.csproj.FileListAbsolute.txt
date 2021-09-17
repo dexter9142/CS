@@ -1,0 +1,9 @@
+D:\C# Projects\CS_LAB1\bin\Debug\CS_LAB1.exe.config
+D:\C# Projects\CS_LAB1\bin\Debug\CS_LAB1.exe
+D:\C# Projects\CS_LAB1\bin\Debug\CS_LAB1.pdb
+D:\C# Projects\CS_LAB1\obj\Debug\CS_LAB1.csprojAssemblyReference.cache
+D:\C# Projects\CS_LAB1\obj\Debug\CS_LAB1.Properties.Resources.resources
+D:\C# Projects\CS_LAB1\obj\Debug\CS_LAB1.csproj.GenerateResource.cache
+D:\C# Projects\CS_LAB1\obj\Debug\CS_LAB1.exe
+D:\C# Projects\CS_LAB1\obj\Debug\CS_LAB1.pdb
+D:\C# Projects\CS_LAB1\obj\Debug\CS_LAB1.Form1.resources
